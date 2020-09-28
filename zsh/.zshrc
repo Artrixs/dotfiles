@@ -22,12 +22,12 @@ if [ -f ~/.env ]; then
 fi
 
 #Custom functions load
-if [-f ~/.functions]; then
+if [ -f ~/.functions ]; then
 	source ~/.functions
 fi
 
 #Aliases
-if [-f ~/.aliases ]; then
+if [ -f ~/.aliases ]; then
 	source ~/.aliases
 fi
 
