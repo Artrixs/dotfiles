@@ -2,6 +2,8 @@
 	email = misino.arturo@gmail.com
 	name = Artrixs
 
+[core]
+	editor = "vim"
 [alias]
 	graph = log --all --graph --oneline --decorate
 
