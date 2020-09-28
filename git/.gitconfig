@@ -1,0 +1,20 @@
+[user]
+	email = misino.arturo@gmail.com
+	name = Artrixs
+
+[alias]
+	graph = log --all --graph --oneline --decorate
+
+[color]
+	ui = auto
+
+[merge]
+	log = true
+
+[url "git@github.com:"]
+	insteadOf = "gh:"
+	pushInsteadOf = "github:"
+	pushInsteadOf = "git://github.com/" 
+
+[url "git://github.com/"]
+	insteadOf = "github:"
