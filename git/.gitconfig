@@ -28,3 +28,6 @@
 
 [url "git://gitlab.com:"]
 	insteadOf = "gitlab:"
+[gitreview]
+	remote = origin
+	username = artrix
