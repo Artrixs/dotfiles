@@ -81,3 +81,6 @@ inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
 " MY SETTINGS
 colorscheme elflord
+set autoindent
+set tabstop=4
+set shiftwidth=4
