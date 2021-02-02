@@ -1,6 +1,7 @@
 [user]
 	email = misino.arturo@gmail.com
 	name = Artrixs
+	signingkey = 1596F06C4FF149A1
 
 [core]
 	editor = "vim"
